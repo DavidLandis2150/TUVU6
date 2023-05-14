@@ -11,7 +11,7 @@ website:
 
 format:
   html:
-    theme: sketchy
+    theme: minima
     toc: true
 
 editor: visual
