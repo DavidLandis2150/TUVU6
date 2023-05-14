@@ -11,7 +11,7 @@ website:
 
 format:
   html:
-    theme: lux
+    theme: sketchy
     toc: true
 
 editor: visual
